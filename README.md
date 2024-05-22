@@ -1,9 +1,9 @@
 # 💫 About Me:
 🔭 I'm currently researching: ROS/Unity Integration for simulating robots<br>
-👯 I’m looking to collaborate on: -
+👯 I’m looking to collaborate on: -<br>
 🌱 I’m currently learning: ROS1, Unity, MoveIt1<br>
-💬 Ask me about: HomeAssistant, C/C++
-⚡ Fun fact: I'm a mechanics engineering student
+💬 Ask me about: HomeAssistant, C/C++<br>
+⚡ Fun fact: I'm a mechanics engineering student<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vincent-schmitt-04b6b2211/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Nurga77) 
