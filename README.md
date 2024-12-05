@@ -1,8 +1,8 @@
 # 💫 About Me:
 🔭 I'm currently researching: ROS/Unity Integration for simulating robots<br>
 👯 I’m looking to collaborate on: -<br>
-🌱 I’m currently learning: ROS1, Unity, MoveIt1<br>
-💬 Ask me about: HomeAssistant, C/C++<br>
+🌱 I’m currently learning: ROS2, Unity, Meta Quest SDK<br>
+💬 Ask me about: HomeAssistant, C#<br>
 ⚡ Fun fact: I'm currently a systems engineering master student<br>
 
 ## 💻 Tech Stack:
