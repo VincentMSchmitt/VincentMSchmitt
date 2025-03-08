@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently researching: Generating XR-GUI for modular automation with the Namur MPT<br>
+🔭 I'm currently researching: Generating XR-GUI for modular automation<br>
 👯 I’m looking to collaborate on: ROS/Unity Integration for simulating robots<br>
 🌱 I’m currently learning: Unity, XR-Dev (ROS2 - on hold)<br>
 💬 Ask me about: HomeAssistant, Python, C#<br>
