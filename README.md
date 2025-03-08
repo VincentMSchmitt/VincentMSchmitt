@@ -1,8 +1,8 @@
 # 💫 About Me:
-🔭 I'm currently researching: ROS/Unity Integration for simulating robots<br>
-👯 I’m looking to collaborate on: -<br>
-🌱 I’m currently learning: ROS2, Unity, Meta Quest SDK<br>
-💬 Ask me about: HomeAssistant, C#<br>
+🔭 I'm currently researching: Generating XR-GUI for modular automation with the Namur MPT<br>
+👯 I’m looking to collaborate on: ROS/Unity Integration for simulating robots<br>
+🌱 I’m currently learning: Unity, XR-Dev (ROS2 - on hold)<br>
+💬 Ask me about: HomeAssistant, Python, C#<br>
 ⚡ Fun fact: I'm currently a systems engineering master student<br>
 
 ## 💻 Tech Stack:
